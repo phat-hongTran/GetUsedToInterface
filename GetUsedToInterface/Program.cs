@@ -18,7 +18,7 @@ namespace GetUsedToInterface
             fingersTheClown.Honk();
             if (fingersTheClown is IScaryClown iScaryClownReference)
             {
-                iScaryClownReference.ScareLittleChildren();
+                iScaryClownReference.ScareAdults();
             }
         }
     }
